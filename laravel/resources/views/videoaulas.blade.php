@@ -23,9 +23,11 @@
 <body>
     <h1>Video Aulas</h1>
    
-        <br />
+        <br /><br>
     <a href="/teladelogin">Tela de Login</a>
+    <br>
     <a href="/">Home</a>
+    <br>
     <a href="/aprenderlibras">Aprender Libras</a>
 </body>
 </html>
