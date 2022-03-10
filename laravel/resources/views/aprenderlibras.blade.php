@@ -24,6 +24,7 @@
 <body>
     <a href="/">Home</a>
     <a href="/login">Login</a>
+    <a href="/videoaulas">Video Aulas</a>
 
 </body>
 </html>

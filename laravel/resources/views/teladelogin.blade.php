@@ -33,5 +33,7 @@
         <br />
     <a href="/">Home</a>
     <a href="/aprenderlibras">Aprender Libras</a>
+    <a href="/videoaulas">Video Aulas</a>
+
 </body>
 </html>
