@@ -23,15 +23,19 @@
 <body>
     <h1>Tela de Login</h1>
     <hr><hr>
-    <h1>Tela de Login</h1>
+    <h2>Tela de Login</h2>
     <hr><hr>
         <form method="post">
-            <input type="text" name="nome" placeholder="nome de usuario">
+            <input type="text" name="nome" placeholder="nome de usuario"><br>
             <input type="password" name="senha" placeholder="sua senha">
             <input type="submit" value="entrar">
         </form>
-        <br />
+        <br /><br>
     <a href="/">Home</a>
+    <br>
     <a href="/aprenderlibras">Aprender Libras</a>
+    <br>
+    <a href="/videoaulas">Video Aulas</a>
+
 </body>
 </html>

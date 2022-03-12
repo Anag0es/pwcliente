@@ -22,8 +22,13 @@
         </style>
 </head>
 <body>
+    <h1>APRENDER LIBRAS</h1>
+    <br>
     <a href="/">Home</a>
+    <br>
     <a href="/login">Login</a>
+    <br>
+    <a href="/videoaulas">Video Aulas</a>
 
 </body>
 </html>

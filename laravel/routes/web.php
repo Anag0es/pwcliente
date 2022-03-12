@@ -24,3 +24,7 @@ Route::get('/teladelogin', function () {
 Route::get('/aprenderlibras', function () {
     return view('aprenderlibras');
 });
+
+Route::get('/videoaulas', function () {
+    return view('videoaulas');
+});
