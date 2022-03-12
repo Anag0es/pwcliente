@@ -1,0 +1,11 @@
+                                             List of databases
+   Name    |  Owner   | Encoding |        Collate         |         Ctype          |   Access privileges   
+-----------+----------+----------+------------------------+------------------------+-----------------------
+ cliente   | postgres | UTF8     | Portuguese_Brazil.1252 | Portuguese_Brazil.1252 | 
+ postgres  | postgres | UTF8     | Portuguese_Brazil.1252 | Portuguese_Brazil.1252 | 
+ template0 | postgres | UTF8     | Portuguese_Brazil.1252 | Portuguese_Brazil.1252 | =c/postgres          +
+           |          |          |                        |                        | postgres=CTc/postgres
+ template1 | postgres | UTF8     | Portuguese_Brazil.1252 | Portuguese_Brazil.1252 | =c/postgres          +
+           |          |          |                        |                        | postgres=CTc/postgres
+(4 rows)
+
